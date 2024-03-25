@@ -7,12 +7,6 @@
 
 
 
-
-
-
-
-
-# Originally from some CS:GO UI cheat imported onto roblox 
-# SOURCE: https://www.youtube.com/watch?v=JWXnAcV2RDk\ (
+**Originally from some CS:GO UI cheat imported onto roblox SOURCE: https://www.youtube.com/watch?v=JWXnAcV2RDk\ (Past Owl)**
 
 
