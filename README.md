@@ -1,6 +1,6 @@
 # MACOS-UI
 
-# Discord: qw221 (746095368445362176)
+# Discord: qw221 (746095368445362176) https://discord.gg/fzGP3yru for custom UIs
 
 # UI designed by Qw and https://github.com/oShyyyyy
 
